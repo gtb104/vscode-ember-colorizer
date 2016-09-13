@@ -1,0 +1,29 @@
+{
+    "name": "vscode-ember-snow",
+    "displayName": "Ember Colorizer and Theme",
+    "description": "Colorize Ember syntax and Handlebars. Along with a theme made specifcally for the colorizer. Requires dzannotti.vscode-babel-coloring.",
+    "version": "0.0.1",
+    "publisher": "gtb104",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "extensionDependencies": [
+        "handlebars",
+        "gtb104.vscode-babel-coloring"
+    ],
+    "contributes": {
+        "grammars": [{
+            "label": "Handlebars (Ember)",
+            "language": "handlebars",
+            "scopeName": "text.html.handlebars",
+            "path": "./syntaxes/handlebars.tmLanguage"
+        }],
+        "themes": [
+            {
+                "label": "Ember Snow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ember.tmTheme"
+            }
+        ]
+    }
+}
