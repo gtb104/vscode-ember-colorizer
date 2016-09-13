@@ -7,9 +7,9 @@ Change Theme: `Shift+CMD+P` -> Search `Preferences: Color Theme` -> Switch to `E
 
 ## Theme:
 * Handlebars:
-	* ![Handlebars](images/screenshot.png)
+![Handlebars](images/screenshot.png)
 * Javascript:
-	* ![Javascript](images/screenshot1.png) 	
+![Javascript](images/screenshot1.png) 	
 
 ## Notes:
 Use in conjunction with [vscode-bable-coloring](https://github.com/gtb104/vscode-babel-coloring)
