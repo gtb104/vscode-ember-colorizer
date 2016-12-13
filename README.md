@@ -12,7 +12,7 @@ Change Theme: `Shift+CMD+P` -> Search `Preferences: Color Theme` -> Switch to `E
 ![Javascript](images/screenshot1.png) 	
 
 ## Notes:
-Use in conjunction with [vscode-bable-coloring](https://github.com/gtb104/vscode-babel-coloring)
+Use in conjunction with [vscode-bable-coloring](https://github.com/dzannotti/vscode-babel)
 
 ### Credits:
 Based off of: https://github.com/ciena-blueplanet/vscode-ember-colorizer
